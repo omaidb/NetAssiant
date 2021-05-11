@@ -6,6 +6,8 @@
 遇到问题请issue或者发送问题和错误截图等信息到邮箱 94088737@qq.com
 
 NetAssist是一款免费的网络协议调整辅助软件，软件支持UDP和TPC协议，只需要输入主机和监听端口就能获取数据解析和部分信息，是网络工程师进行远程办公必备的软件之一。
+![image](https://user-images.githubusercontent.com/18365223/117758059-de81a480-b253-11eb-9298-ab8850a78f34.png)
+
 
 功能介绍：
 1、netassist.exe支持16进制的发送与16进制接收显示
@@ -23,6 +25,7 @@ NetAssist是一款免费的网络协议调整辅助软件，软件支持UDP和TP
 软件特色：
 1、集成TCP服务端与P客户端，可以建立多个链接，各自单独操作，管理方便
 
+![image](https://user-images.githubusercontent.com/18365223/117758100-ee998400-b253-11eb-83ee-ffb00efd1842.png)
 
 
 使用方法：
